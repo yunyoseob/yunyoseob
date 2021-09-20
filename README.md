@@ -2,6 +2,8 @@
 
  I'm a Data Analysis Newbie
 
+- 2021.04.01: Joined GitHub
+
 # My History
 - 1996.03.23: 출생
 
