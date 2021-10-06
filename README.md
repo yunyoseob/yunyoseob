@@ -28,6 +28,9 @@
 
 - 2021.08.04: 최적화된 도구(R/Python)를 활용한 애널리스트 양성과정 수료
 
+- 2021.09.16~ : 인공지능그랜드챌린지 대회 참여중 (팀명: 칼리버, 직책: 팀원)
+- 프로젝트 링크: https://github.com/Proj-Caliber
+
 
 [![yunyoseob's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunyoseob)](https://github.com/yunyoseob/github-readme-stats)
 
