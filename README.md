@@ -33,7 +33,7 @@
 
 <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow"> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch"> 
 
-[![yunyoseob's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunyoseob&theme=prussian)](https://github.com/yunyoseob/github-readme-stats)
+[![yunyoseob's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunyoseob&theme=blueberry)](https://github.com/yunyoseob/github-readme-stats)
 
 
 # 📄 Certificate
