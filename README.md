@@ -7,7 +7,7 @@
 # 💁 My Portfolio
 ➡️ [포트폴리오 보기](https://salty-raft-fca.notion.site/Hello-My-name-is-YUNYOSEOB-bdd23429e7bb40239f8ed2d16ceea1ec)
 
-# My IT Blog
+# 💁 My IT Blog
 ➡️ [IT 블로그 보기 : yunyoseob.github.io](https://yunyoseob.github.io/)
 
 - WHO AM I?
