@@ -7,6 +7,9 @@
 # 💁 My Portfolio
 ➡️ [포트폴리오 보기](https://salty-raft-fca.notion.site/Hello-My-name-is-YUNYOSEOB-bdd23429e7bb40239f8ed2d16ceea1ec)
 
+# My IT Blog
+➡️ [IT 블로그 보기 : yunyoseob.github.io](https://yunyoseob.github.io/)
+
 - WHO AM I?
 - 🔲에서 나는?
 - 엘레베이터 속 거울 이야기 (앞으로의 나는?)
@@ -34,6 +37,9 @@
 <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow"> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch"> 
 
 [![yunyoseob's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunyoseob&theme=blueberry)](https://github.com/yunyoseob/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunyoseob)](https://github.com/yunyoseob/github-readme-stats)
 
 
 # 📄 Certificate
