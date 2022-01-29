@@ -12,7 +12,7 @@
 - 엘레베이터 속 거울 이야기 (앞으로의 나는?)
 
 # 💁 My IT Blog
-➡️ [IT 블로그 보기 : yunyoseob.github.io](https://yunyoseob.github.io/)
+➡️ [IT 블로그 보기 : velog.io/@yunyoseob](https://velog.io/@yunyoseob)
 
 # 👨‍🎓  Education 
 | 년도   | 교육사항   | 비고   |
