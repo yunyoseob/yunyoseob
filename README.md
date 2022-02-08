@@ -4,6 +4,10 @@
 
 ### My name is YUNYOSEOB 👋
 
+- **Joined GitHub  => 2021.04.01**
+- **Start Posting velog.io/@yunyoseob => 2022.01.30**
+
+
 # 💁 My Portfolio
 ➡️ [포트폴리오 보기](https://salty-raft-fca.notion.site/Hello-My-name-is-YUNYOSEOB-bdd23429e7bb40239f8ed2d16ceea1ec)
 
