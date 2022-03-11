@@ -31,27 +31,22 @@
 - 2021.07.24~2021.08.03: [서울시 구별 미세먼지 예측 사례를 통한 단변량 시계열 분석 방법에 대한 연구 프로젝트](https://github.com/yunyoseob/dadaiksunTeamProject/blob/main/%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%E1%84%86%E1%85%B5%E1%84%89%E1%85%A6%E1%84%86%E1%85%A5%E1%86%AB%E1%84%8C%E1%85%B5%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3.pdf)
 - (팀 구성 인원: 4명, 팀명: dadaiksun, 직책: 팀장, [발표영상보기](https://www.youtube.com/watch?v=UkW-BUyIb5M&t=56s))
 
-## ✒️ Skill Set
+# ✒️ Skill Set
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"> <img src="https://img.shields.io/badge/-Numpy-013243?style=flat&logo=Numpy"> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas"> <img src="https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn"> <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=SciPy"> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow"> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch"> 
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java"> <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle"> 
 
-![yunyoseob's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunyoseob&show_icons=true&theme=buefy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunyoseob&langs_count=8)](https://github.com/yunyoseob/github-readme-stats)
-
-
-## 👯‍♂️ Cowork Tools
+### 👯‍♂️ Cowork Tools
 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord"> <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk">
 
-## 👩‍💻 Development & Analysis Tools
+### 👩‍💻 Development & Analysis Tools
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab"> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE">
 
+![yunyoseob's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunyoseob&show_icons=true&theme=buefy)
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunyoseob&langs_count=8)](https://github.com/yunyoseob/github-readme-stats)
 
 # 📄 Certificate
 | 자격증  | 발급기관   | 취득일   |
