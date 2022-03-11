@@ -40,7 +40,7 @@
 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord"> <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk">
 
-### 👩‍💻 Development & Analysis Tools
+### 👩‍💻 Development & Analytics Tools
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab"> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE">
 
