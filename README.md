@@ -32,6 +32,9 @@
 - (팀 구성 인원: 4명, 팀명: dadaiksun, 직책: 팀장, [발표영상보기](https://www.youtube.com/watch?v=UkW-BUyIb5M&t=56s))
 
 # ✒️ Skill Set
+
+> **Entry Level**
+
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"> <img src="https://img.shields.io/badge/-Numpy-013243?style=flat&logo=Numpy"> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas"> <img src="https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn"> <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=SciPy"> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow"> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch"> 
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java"> <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle"> 
