@@ -35,9 +35,9 @@
 
 ### ✍🏻 Entry Level
 
-<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"> <img src="https://img.shields.io/badge/-Numpy-013243?style=flat&logo=Numpy"> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas"> <img src="https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn"> <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=SciPy"> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow"> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch"> 
+<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"> <img src="https://img.shields.io/badge/-Numpy-013243?style=flat&logo=Numpy"> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas"> <img src="https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn">  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow"> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch"> <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java"> <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle"> 
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java"> <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle"> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery">
 
 ### 👯‍♂️ Cowork Tools
 
