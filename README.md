@@ -61,7 +61,7 @@
 
 # 🏆 Achievement
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yunyoseob)](https://github.com/ryo-ma/github-profile-trophy&row=2&column=3)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yunyoseob&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 🚀 ACTIVITES
 - 2021.05.10~2021.06.25: [전력사용량 예측 AI 경진대회 참여](https://dacon.io/competitions/official/235736/overview/description) [My Code](https://github.com/yunyoseob/SD_academy_Study/blob/master/Test1/%EC%A0%84%EB%A0%A5%EC%82%AC%EC%9A%A9%EB%9F%89_%EC%98%88%EC%B8%A1_AI_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%EC%A0%84%EB%A0%A5%EC%82%AC%EC%9A%A9%EB%9F%89_%EC%98%88%EC%B8%A1_AI_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C(Prophet).ipynb)
