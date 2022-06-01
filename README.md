@@ -2,17 +2,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunyoseob&count_bg=%2379C83D&title_bg=%23555555&icon=macys.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### My name is YUNYOSEOB 👋🏻
-
 - **Joined GitHub  => 2021.04.01**
 - **Start Posting velog.io/@yunyoseob => 2022.01.30**
 
-
-# 💁🏻‍♀️ My Portfolio
-➡️ [포트폴리오 보기](https://salty-raft-fca.notion.site/Hello-My-name-is-YUNYOSEOB-bdd23429e7bb40239f8ed2d16ceea1ec)
-
 # 📗 My IT Blog
-➡️ [IT 블로그 보기 : velog.io/@yunyoseob](https://velog.io/@yunyoseob/series)
+➡️ [velog.io/@yunyoseob](https://velog.io/@yunyoseob/series)
 
 # 👨🏻‍🎓  Education 
 | 년도   | 교육사항   | 비고   |
@@ -67,14 +61,6 @@
 - 2021.05.10~2021.06.25: [전력사용량 예측 AI 경진대회 참여](https://dacon.io/competitions/official/235736/overview/description) [My Code](https://github.com/yunyoseob/SD_academy_Study/blob/master/Test1/%EC%A0%84%EB%A0%A5%EC%82%AC%EC%9A%A9%EB%9F%89_%EC%98%88%EC%B8%A1_AI_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%EC%A0%84%EB%A0%A5%EC%82%AC%EC%9A%A9%EB%9F%89_%EC%98%88%EC%B8%A1_AI_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C(Prophet).ipynb)
 
 - (첫 데이콘 참여, 팀 구성 인원: 3명, 팀명: 조주자, 직책: 팀원, 346명 중 49등(PUBLIC))
-
-# ✈️ EXTRACURRICULAR ACTIVITIES
-2017.7.23~2017.8.20: [아이쿠스: 말레이시아 드리머즈 1기 활동](https://www.gokorea.kr/news/articleView.html?idxno=30357)
-
-
-2019.01~2019.12: [공군 군복무 중 영종하늘도서관 운영지원단 활동 (공군장병 재능기부 교육봉사 동아리)](https://enews.incheon.go.kr/usr/com/prm/BBSDetail.do?bbsId=BBSMSTR_000000000394&nttId=6114&menuNo=3000&upperMenuId=3)
-
-2020.09~2020.10: 인도네시아 해외창업 경험 (배달 요식업)
                
 # 📞 Contact Me
 e-mail: imyoseob@naver.com
