@@ -25,7 +25,7 @@
 | 2022.08.17~ | 우리카드 실시간 초개인화 마케팅 플랫폼 구축 프로젝트 투입 | Developer(실시간 고객행동정보 수집) |
 
 ## 📑 Bachelor thesis
-- 2020.3~2020.6: [코로나19 발생이후 배달음식 및 외식 소비실태 조사 논문 작성](https://github.com/yunyoseob/Study_at_PNU/blob/main/%EC%BD%94%EB%A1%9C%EB%82%9819%20%EB%B0%9C%EC%83%9D%EC%9D%B4%ED%9B%84%20%EB%B0%B0%EB%8B%AC%EC%9D%8C%EC%8B%9D%20%EB%B0%8F%20%EC%99%B8%EC%8B%9D%20%EC%86%8C%EB%B9%84%EC%8B%A4%ED%83%9C%20%EC%A1%B0%EC%82%AC.pdf)
+- 2020.3~2020.6: [코로나19 발생이후 배달음식 및 외식 소비실태 조사 논문 작성](https://github.com/yunyoseob/PNU/blob/master/Study/%EC%BD%94%EB%A1%9C%EB%82%9819%20%EB%B0%9C%EC%83%9D%EC%9D%B4%ED%9B%84%20%EB%B0%B0%EB%8B%AC%EC%9D%8C%EC%8B%9D%20%EB%B0%8F%20%EC%99%B8%EC%8B%9D%20%EC%86%8C%EB%B9%84%EC%8B%A4%ED%83%9C%20%EC%A1%B0%EC%82%AC.pdf)
 
 ## ✒️ Skill Set
 
