@@ -2,8 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunyoseob&count_bg=%2379C83D&title_bg=%23555555&icon=macys.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- **Joined GitHub  => 2021.04.01**
-- **Start Posting velog.io/@yunyoseob => 2022.01.30**
+- **2021.04.01 - Joined GitHub**
+- **2022.01.30 - Start Posting velog.io**
 
 ## 📗 My IT Blog
 ➡️ [velog.io/@yunyoseob](https://velog.io/@yunyoseob/series)
