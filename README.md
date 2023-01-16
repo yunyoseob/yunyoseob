@@ -39,11 +39,6 @@
 | 리눅스마스터 2급   | 한국정보통신진흥협회 | 2022.12.30 |
 | 정보처리기능사   | 한국산업인력공단   | 2019.12.02   |
 
-## ✨ Stats
-
-![yunyoseob's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunyoseob&show_icons=true&theme=buefy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunyoseob&langs_count=10)](https://github.com/yunyoseob/github-readme-stats)
 
 ## 🏆 Achievement
 
