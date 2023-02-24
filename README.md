@@ -7,21 +7,21 @@
 ## 👨‍💼 Employment History
 
 | Year   |  Company   |  Position   |
-|:---:|:---:|:---:|
+|---|---|---|
 | 2022.06.07 ~ 2022.07.06 | Worked at noaats | Consultant Business Analyst |
 | 2022.07.11 ~ Present |  Currently working at RedWoodK | Junior Engineer |
 
 ## 👨‍💻 Project History
 
 | Year   |  Project | Position   |
-|:---:|:---:|:---:|
+|---|---|---|
 | 2022.08.17 ~ 2023.01.30 | 우리카드 개인화마케팅 통합플랫폼 구축 프로젝트 <br> (Development of personalized marketing  platform project) | 실시간 고객행동정보 수집 화면 개발 <br> (Behavior information collection web  development) |
 | 2023.01.31 ~ Present | RedWoodK 실시간 고객행동정보 개발 프로젝트 <br> (Real-time behavior information development project) | 실시간 고객행동정보 web 개발 <br> (Behavior Information Web Development) |
 
 ## 👨‍🎓 Education
 
 | 년도   | 교육사항   | 비고   | 기간 |
-|:---|:---:|:---:|:---:|
+|---|---|---|---|
 | 2015.02   | 경신고등학교 졸업 <br> (Kyungshin High School)  | 문과 <br> (Liberal arts)   | 2012.09 ~ 2015.02 |
 | 2017.02.22   | 경영학사 취득 <br> (Bachelor of Business Administration)  | 동국대학교 DUICA 경영학과 졸업 <br> (Business Administration, DUICA) | 2015.04 ~ 2017.02   |
 | 2022.02.25   | 경제학사 취득 <br> (Bachelor of Economics) | 부산대학교 식품자원경제학과 졸업 <br> (Food and Resource Economics, Pusan National University) | 2017.03.02 ~ 2022.02.25   |
