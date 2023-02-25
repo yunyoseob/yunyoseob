@@ -25,7 +25,7 @@
 | 2015.02   | 경신고등학교 졸업 <br> (Kyungshin High School)  | 문과 <br> (Liberal arts)   | 2012.09 ~ 2015.02 |
 | 2017.02.22   | 경영학사 취득 <br> (Bachelor of Business Administration)  | 동국대학교 DUICA 경영학과 졸업 <br> (Business Administration, DUICA) | 2015.04 ~ 2017.02   |
 | 2022.02.25   | 경제학사 취득 <br> (Bachelor of Economics) | 부산대학교 식품자원경제학과 졸업 <br> (Food and Resource Economics, Pusan National University) | 2017.03.02 ~ 2022.02.25   |
-| 2022.03.02 ~ Present | 국민대학교 Business IT <br> 전문대학원 재학 <br> (Graduate School of Business IT, Kookmin University) | Business IT 전공 <br> (Majoring in Business IT)| 2022.03.02 ~ Present |
+| 2023.03.02 ~ Present | 국민대학교 Business IT <br> 전문대학원 재학 <br> (Graduate School of Business IT, Kookmin University) | Business IT 전공 <br> (Majoring in Business IT)| 2023.03.02 ~ Present |
 
 ## 📑 Bachelor thesis
 - 2020.3~2020.6: [코로나19 발생이후 배달음식 및 외식 소비실태 조사 논문 작성 <br> (A study on the consumption patterns of delivery food and dining out after the occurrence of COVID-19)](https://github.com/yunyoseob/PNU/blob/master/Study/%EC%BD%94%EB%A1%9C%EB%82%9819%20%EB%B0%9C%EC%83%9D%EC%9D%B4%ED%9B%84%20%EB%B0%B0%EB%8B%AC%EC%9D%8C%EC%8B%9D%20%EB%B0%8F%20%EC%99%B8%EC%8B%9D%20%EC%86%8C%EB%B9%84%EC%8B%A4%ED%83%9C%20%EC%A1%B0%EC%82%AC.pdf)
