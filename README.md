@@ -16,7 +16,7 @@
 | Year   |  Project | Position   |
 |---|---|---|
 | 2022.08.17 ~ 2023.01.30 | 우리카드 개인화마케팅 통합플랫폼 구축 프로젝트 <br> (Development of personalized marketing  platform project) | 실시간 고객행동정보 수집 화면 개발 <br> (Behavior information collection web  development) |
-| 2023.01.31 ~ Present | RedWoodK 실시간 고객행동정보 개발 프로젝트 <br> (Real-time behavior information development project) | 실시간 고객행동정보 web 개발 <br> (Behavior Information Web Development) |
+| 2023.01.31 ~ Present | RedWoodK 고객행동정보 솔루션 개발 프로젝트 <br> (Real-time behavior information development project) | 고객행동정보 web 개발 <br> (Behavior Information Web Development) |
 
 ## 👨‍🎓 Education
 
