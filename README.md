@@ -15,9 +15,9 @@
 
 | Year   |  Project | Position   |
 |---|---|---|
-| 2022.08.17 ~ 2023.01.30 | 우리카드 개인화마케팅 통합플랫폼 구축 프로젝트 <br> (Development of personalized marketing  platform for Woori Card) | 실시간 고객행동정보 수집 화면 개발 <br> (Behavior information collection web  development) |
-| 2023.01.31 ~ 2023.04.11 | RedWoodK 고객행동정보 솔루션 개발 프로젝트 <br> (Real-time behavior information development project) | 실시간 고객행동정보 web 개발 <br> (Real Time Behavior Information Web Development) |
-| 2023.04.12 ~ Present | 하나은행 프로젝트 ONE <br> (Project ONE of Hana Bank) | 실시간 손님행동정보 web 개발 <br> (Real Time Behavior Information Web Development)|
+| 2022.08.17 ~ 2023.01.30 | 우리카드 개인화마케팅 통합플랫폼 구축 프로젝트 <br> (Development of personalized marketing  platform for Woori Card) | 실시간 고객행동정보 수집 화면 개발(Tagmanager) <br> (Behavior information collection web  development) |
+| 2023.01.31 ~ 2023.04.11 | RedWoodK 고객행동정보 솔루션 개발 프로젝트 <br> (Real-time behavior information development project) | 실시간 고객행동정보 web 개발(Behavior) <br> (Real Time Behavior Information Web Development) |
+| 2023.04.12 ~ Present | 하나은행 프로젝트 ONE <br> (Project ONE of Hana Bank) | 실시간 손님행동정보 web 개발(Behavior) <br> (Real Time Behavior Information Web Development)|
 
 ## 👨‍🎓 Education
 
