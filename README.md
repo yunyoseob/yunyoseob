@@ -9,8 +9,8 @@
 | Year   |  Company   |  Position   |
 |---|---|---|
 | 2022.06.07 ~ 2022.07.06 | Worked at noaats | Consultant Business Analyst |
-| 2022.07.11 ~ 2023.12.20 |  Worked at RedWoodK | Junior Engineer |
-| 2023.12.21 ~ Present |  Currently working at Didim365 | Junior Engineer |
+| 2022.07.11 ~ 2023.12.20 |  Worked at RedWoodK | Solution Consulting Division / Junior Engineer |
+| 2023.12.21 ~ Present |  Currently working at Didim365 | AI MSP GROUP / Junior Engineer |
 
 ## 👨‍💻 Project History
 
