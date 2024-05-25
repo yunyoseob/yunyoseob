@@ -10,7 +10,7 @@
 |---|---|---|
 | 2022.06.07 ~ 2022.07.06 | Worked at noaats | Consultant Business Analyst |
 | 2022.07.11 ~ 2023.12.20 |  Worked at RedwoodK | Solution Consulting Division / Junior Engineer |
-| 2023.12.21 ~ Present |  Currently working at Didim365 | AI MSP Group (Tech Center) / Junior Engineer |
+| 2023.12.21 ~ Present |  Currently working at Didim365 | AI Group (Tech Center) / Junior Engineer |
 
 ## 👨‍💻 Project History
 
@@ -18,6 +18,8 @@
 |---|---|---|
 | 2022.08.17 ~ 2023.01.30 | 우리카드 개인화마케팅 통합플랫폼 구축 프로젝트 | 개인화마케팅 실시간 고객행동정보 수집 |
 | 2023.04.12 ~ 2024.03.25 | 하나은행 프로젝트 ONE | 마케팅플랫폼 실시간 행동정보 수집 |
+| 2024.04.02 ~  | Didim365 AI 그룹 연구 및 개발 프로젝트 | AMP-Service 연구 및 개발 |
+
 
 ## 👨‍🎓 Education
 
