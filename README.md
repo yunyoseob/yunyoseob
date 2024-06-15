@@ -10,7 +10,7 @@
 |---|---|---|
 | 2022.06.07 ~ 2022.07.06 | Worked at noaats | Consultant Business Analyst |
 | 2022.07.11 ~ 2023.12.20 |  Worked at RedwoodK | Solution Consulting Division / Junior Engineer |
-| 2023.12.21 ~ Present |  Currently working at Didim365 | AI Group (Tech Center) / Junior Engineer |
+| 2023.12.21 ~ Present |  Currently working at Didim365 | AI Group (Tech Center) / AI Service Developer |
 
 ## 👨‍💻 Project History
 
