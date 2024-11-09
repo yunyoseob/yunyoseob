@@ -20,7 +20,7 @@
 | 2023.04.12 ~ 2024.03.25 | 하나은행 프로젝트 ONE | 마케팅플랫폼 실시간 행동정보 수집 | 12 MM |
 | 2024.05.01 ~ 2024.12.31 |  (과학기술정보통신부, 정보통신산업진흥원) 초거대AI 기반 클라우드서비스 개발 역량지원 사업 | 초거대AI 학습 컨설팅 모델 고도화 LLM개발 관련 컨설팅 | 8 MM |
 | 2024.07.15 ~ 2024.12.15 | (과학기술정보통신부, 한국지능정보사회진흥원) 초거대AI 기반 플랫폼 이용지원 사업  | 수요기관별 LLM 기반 서비스 맞춤형 개발 (37개 수요기관 中 9개 수요기관 PoC 진행) | 6 MM |
-| 2024.10.23 ~ Present |  SKT AI 일방혁(일하는 방식 혁신) 프로젝트 |  PBAA(Professional Business AI Agent) 법무파트 개발 | Ongoing |
+| 2024.10.23 ~ Present |  SKT AI 일방혁(일하는 방식 혁신) 프로젝트 |  PBAA(Professional Business AI Agent) 법무 AI Agent PL(Project Leader) | Ongoing |
 
 ## 👨‍🎓 Education
 
