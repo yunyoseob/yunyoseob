@@ -6,11 +6,11 @@
 
 ## 👨‍💼 Employment History
 
-| Year   |  Company   |  Position   | Duration | Remarks | 
-|---|---|---|---|:---:|
-| 2022.06.07 ~ 2022.07.06 | Worked at noaats | Consultant Business Analyst | 1 MM | - |
-| 2022.07.11 ~ 2023.12.20 |  Worked at RedwoodK | Solution Consulting Division / Junior Engineer | 17 MM | - |
-| 2023.12.21 ~ Present |  Currently working at Didim365 | AI Group (Tech Center) / LLM Engineer | Ongoing | [Didim365-RedwoodK 인수 합병으로 인한 소속 변경](https://www.didim365.com/press/%EB%94%94%EB%94%A4365-%EB%A0%88%EB%93%9C%EC%9A%B0%EB%93%9C%EC%BC%80%EC%9D%B4-%ED%95%A9%EB%B3%91-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-dx%EB%A5%BC-%EB%84%98%EC%96%B4-ai-msp%EB%A1%9C-%EB%8F%84/) |
+| Year   |  Company   |  Position   | Job Level | Duration | Remarks | 
+|---|---|---|---|---|:---:|
+| 2022.06.07 ~ 2022.07.06 | Worked at noaats | Consultant Business Analyst | 사원 (Junior)  | 1 MM | - |
+| 2022.07.11 ~ 2023.12.20 |  Worked at RedwoodK | Solution Consulting Division / Data Engineer | 사원 (Junior) | 17 MM | - |
+| 2023.12.21 ~ Present |  Currently working at Didim365 | AI Group (Tech Center) / LLM Engineer | 사원 (Junior) | Ongoing | [Didim365-RedwoodK 인수 합병으로 인한 소속 변경](https://www.didim365.com/press/%EB%94%94%EB%94%A4365-%EB%A0%88%EB%93%9C%EC%9A%B0%EB%93%9C%EC%BC%80%EC%9D%B4-%ED%95%A9%EB%B3%91-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-dx%EB%A5%BC-%EB%84%98%EC%96%B4-ai-msp%EB%A1%9C-%EB%8F%84/) |
 
 ## 👨‍💻 Project History
 
