@@ -42,7 +42,7 @@
   - (English) "Development of a Korean News Question Answering System Based on LLM Using RAPTOR"  
   *Journal*: 한국지능시스템학회 논문지 제30권 제4호  
   *Publication Date*: 2024년 12월  
-  *Link*: [한국지능시스템학회 논문지 (제30권 제4호)](https://www.jiisonline.org/index.php?mnu=archive&archiveId=1066&tparam=30.4.12.2024), [한국학술지인용색인(KCI) RAPTOR를 활용한 LLM 기반 한국어 뉴스 질의응답 시스템 개발](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003153651) 
+  *Link*: [한국지능시스템학회 논문지 (제30권 제4호)](https://www.jiisonline.org/index.php?mnu=archive&archiveId=1066&tparam=30.4.12.2024)
 
 
 - **Conference Presentation**:  
