@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&reversal=True&color=gradient&text=%20Yun%20Yoseob%20&height=200&section=header&fontSize=50&fontAlign=75&fontAlignY=45)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunyoseob&count_bg=%2379C83D&title_bg=%23555555&icon=macys.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 - **2021.04.01 - Joined GitHub**
 
 ## 👨‍💼 Employment History
