@@ -8,7 +8,7 @@
 |---|---|---|---|---|---|:---:|
 | 2022.06.07 ~ 2022.07.06 | noaats | Consultant Business Analyst | - | Assistant (주임)  | 1 month | - |
 | 2022.07.11 ~ 2023.12.20 | RedwoodK | Data Engineer | Solution Consulting Division | Junior (사원) | 17 months | - |
-| 2023.12.21 ~ Present | Didim365 | LLM Engineer | AI Group (Planning & Execution Center, Delivery Team) | Research Engineer (선임 연구원) | Ongoing | [Didim365-RedwoodK 인수 합병으로 인한 소속 변경](https://www.didim365.com/press/%EB%94%94%EB%94%A4365-%EB%A0%88%EB%93%9C%EC%9A%B0%EB%93%9C%EC%BC%80%EC%9D%B4-%ED%95%A9%EB%B3%91-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-dx%EB%A5%BC-%EB%84%98%EC%96%B4-ai-msp%EB%A1%9C-%EB%8F%84/) |
+| 2023.12.21 ~ Present | Didim365 | LLM Engineer | AI Group (Planning & Implementation Center, Execution Team) | Senior Associate (선임 연구원) | Ongoing | [Didim365-RedwoodK 인수 합병으로 인한 소속 변경](https://www.didim365.com/press/%EB%94%94%EB%94%A4365-%EB%A0%88%EB%93%9C%EC%9A%B0%EB%93%9C%EC%BC%80%EC%9D%B4-%ED%95%A9%EB%B3%91-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-dx%EB%A5%BC-%EB%84%98%EC%96%B4-ai-msp%EB%A1%9C-%EB%8F%84/) |
 
 ## 👨‍💻 Project History
 
