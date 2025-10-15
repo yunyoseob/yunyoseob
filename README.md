@@ -8,7 +8,8 @@
 |---|---|---|---|---|---|:---:|
 | 2022.06.07 ~ 2022.07.06 | noaats | Consultant Business Analyst | - | Assistant (주임)  | 1 month | - |
 | 2022.07.11 ~ 2023.12.20 | RedwoodK | Data Engineer | Solution Consulting Division | Junior (사원) | 17 months | - |
-| 2023.12.21 ~ Present | Didim365 | LLM Engineer | AI Group (Planning & Implementation Center, Execution Team) | Senior Associate (선임 연구원) | Ongoing | [Didim365-RedwoodK 인수 합병으로 인한 소속 변경](https://www.didim365.com/press/%EB%94%94%EB%94%A4365-%EB%A0%88%EB%93%9C%EC%9A%B0%EB%93%9C%EC%BC%80%EC%9D%B4-%ED%95%A9%EB%B3%91-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-dx%EB%A5%BC-%EB%84%98%EC%96%B4-ai-msp%EB%A1%9C-%EB%8F%84/) |
+| 2023.12.21 ~ 2025.10.10 | Didim365 | LLM Engineer | AI Group (Planning & Implementation Center, Execution Team) | Senior Associate (선임 연구원) | 22 months | [Didim365-RedwoodK 인수 합병으로 인한 소속 변경](https://www.didim365.com/press/%EB%94%94%EB%94%A4365-%EB%A0%88%EB%93%9C%EC%9A%B0%EB%93%9C%EC%BC%80%EC%9D%B4-%ED%95%A9%EB%B3%91-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-dx%EB%A5%BC-%EB%84%98%EC%96%B4-ai-msp%EB%A1%9C-%EB%8F%84/) |
+| 2025.10.13 ~ Present | Blumn AI | LLM Engineer | Solution Consulting Division | - | Ongoing | - |
 
 ## 👨‍💻 Project History
 
@@ -19,7 +20,7 @@
 | 2024.05.01 ~ 2024.12.31 |  (과학기술정보통신부, 정보통신산업진흥원) 초거대AI 기반 클라우드서비스 개발 역량지원 사업 | 초거대AI 학습 컨설팅 모델 고도화 LLM개발 관련 컨설팅 | 8 months |
 | 2024.07.15 ~ 2024.12.15 | (과학기술정보통신부, 한국지능정보사회진흥원) 초거대AI 기반 플랫폼 이용지원 사업  | 수요기관별 LLM 기반 서비스 맞춤형 개발 (37개 수요기관 中 9개 수요기관 PoC 진행) | 6 months |
 | 2024.10.23 ~ 2025.04.30 |  SKT AI 일방혁(일하는 방식 혁신) 프로젝트 |  PBAA(Professional Business AI Agent) 법무 개발 PL (Project Leader) | 6 months |
-| 2025.07.10 ~ Present | 신한은행 생성형AI 플랫폼 구축 | SKT A.X Platform 기반 LLMOps 서비스 구축 (포탈 내 LLM 연계 서비스 개발 및 워크플로우 구현 담당) | - |
+| 2025.07.10 ~ 2025.09.30 | 신한은행 생성형AI 플랫폼 구축 | SKT A.X Platform 기반 LLMOps 서비스 구축 (포탈 내 LLM 연계 서비스 개발 및 워크플로우 구현 담당) | 3 months |
 
 ## 👨‍🎓 Education
 
