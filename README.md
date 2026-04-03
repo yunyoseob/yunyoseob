@@ -71,9 +71,5 @@
  | 2021.08.04   | 최적화된 도구(R/Python)를 활용한 애널리스트 양성과정 수료   | 2021.03.11~2021.08.04             (824시간, in SDacademy)   |
  | 2022.05.31   | 빅데이터기반 인공지능 융합 서비스 개발자과정 참여   | 2022.01.24~2022.05.31 (in 한국소프트웨어인재개발원) |
 
-## 🏆 Achievement
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yunyoseob&row=2&column=3)](https://github.com/yunyoseob/github-profile-trophy)
-
 ### 📞 Contact Me
 e-mail: imyoseob@naver.com
